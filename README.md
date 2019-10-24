@@ -1,6 +1,17 @@
-# CodeWars
-If github fails to open the file, please use [nbviewer](https://nbviewer.jupyter.org/).
+![alt text](https://www.codewars.com/users/Bhavesh_Nathwani/badges/large)
 
-These are my personal submissions to coding challenges on the website [CodeWars.com](https://www.codewars.com).
+This is a GitHub repository where I upload my personal submissions to [CodeWars](https://www.codewars.com/)
+challenges.
 
-Submissions are uplaoded as a Jupyter Notebook, with additional testing cells.
+What is my weapon of choice you ask? **Python 3!**
+
+### What are CodeWars challenges?
+Codewars is a fantastic website where you can practice your programming skills by taking on a coding challenge. Learning is progressive and difficulty scales, so you can start with beginner '8 kyu' challenges, and work your way up to '1kyu' and eventually the 'dan' ranks, as explained below.
+
+Codewars has been an invaluable tool in supporting my learning of Python!
+
+
+
+### CodeWars challenge difficulty:
+
+![alt text](https://i.imgur.com/EIn8aLi.png)
