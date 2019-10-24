@@ -1,3 +1,5 @@
+# CodeWars
+
 ![alt text](https://www.codewars.com/users/Bhavesh_Nathwani/badges/large)
 
 This is a GitHub repository where I upload my personal submissions to [CodeWars](https://www.codewars.com/)
