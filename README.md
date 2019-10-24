@@ -15,3 +15,9 @@ Codewars has been an invaluable tool in supporting my learning of Python!
 ### CodeWars challenge difficulty:
 
 ![alt text](https://i.imgur.com/EIn8aLi.png)
+
+
+### Solutions not loading?
+ GitHub fails to load Jupyter Notebooks occasionally, in which case you should view my solutions [here](https://nbviewer.jupyter.org/github/bhaveshnathwani/CodeWars/tree/master/).
+ 
+ **Thank you!** - Any questions, please let me know.
